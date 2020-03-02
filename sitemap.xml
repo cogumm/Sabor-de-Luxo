@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+  <url>
+    <loc>https://cogumm.github.io/Sabor-de-Luxo/</loc>
+    <lastmod>2020-03-02</lastmod>
+    <priority>1.00</priority>
+  </url>
+  <url>
+    <loc>https://cogumm.github.io/Sabor-de-Luxo/#home</loc>
+    <lastmod>2020-03-02</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://cogumm.github.io/Sabor-de-Luxo/#about</loc>
+    <lastmod>2020-03-02</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://cogumm.github.io/Sabor-de-Luxo/#menu</loc>
+    <lastmod>2020-03-02</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://cogumm.github.io/Sabor-de-Luxo/#hours</loc>
+    <lastmod>2020-03-02</lastmod>
+    <priority>0.80</priority>
+  </url>
+</urlset>
+<!--<guid value="4e3aab84-80a1-43fc-a167-bc5bea640079" />-->
+<!--Created using XmlSitemapGenerator.org - Free HTML, RSS and XML sitemap generator-->

@@ -1039,7 +1039,8 @@ footer .social-icon {
 }
 
 .hours {
-  margin: 0 15px 15px 0;
+  /* Bug hacking */
+  margin: 0 15px 20px 0;
 
   background-size: cover;
   padding: 40px 0 40px 20px;
